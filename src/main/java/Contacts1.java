@@ -148,7 +148,7 @@ public class Contacts1 {
      * The method header comment can be omitted if the method is trivial
      * and the header comment is going to be almost identical to the method
      * signature anyway.
-     * ====================================================================
+     * ===================================================================
      */
 
     private static void showWelcomeMessage() {
